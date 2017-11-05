@@ -28,3 +28,17 @@ function GetSum(a, b) {
     //return that total after calculation
     return total
 }
+
+//------------------------
+//also return (a, d), a+b+c+d
+//this part is for returning ^^^
+//want to sort the min and max of array
+//learned that sort is unstable and will return back sorted array based on Unicode
+//ie [1, 20, 10, 2].sort returns [1, 10, 2, 20]
+//create variables for a & b with value applied
+//total begins at 0 because that is the beginning value before adding the numbers to it
+//if the a === b then return a or|| b
+//else return the sum of a+b
+//this part works, maybe post blog about how i solved this, step by step
+//looping through each number and adding it to TOTAL to calculate all the number within a & b
+//return that total after calculation
