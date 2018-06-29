@@ -20,3 +20,5 @@ var isPalindrome = function(x) {
   const newString = newArray.join('')
   return newString == x
 };
+
+//testing git push
