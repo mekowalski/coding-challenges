@@ -21,4 +21,5 @@ var isPalindrome = function(x) {
   return newString == x
 };
 
-//testing git push
+// L7: create a variable that will convert parameter 'x' into a string
+// L8: return parameter 'x' that is eqaulity-equal to stringX that is reversed and joined
